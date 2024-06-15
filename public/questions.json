@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "Madrid", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Who wrote 'To be, or not to be'?",
+      "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Dollar", "Yen", "Won"],
+      "answer": "Yen"
+    },
+    {
+      "question": "Which element has the chemical symbol O?",
+      "options": ["Oxygen", "Gold", "Silver", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "answer": "Diamond"
+    }
+  ]
+  
